@@ -4,6 +4,10 @@ Les molécules qui seront utilisées dans le site Evenbrite
 
 ## Lancer le projet
 
+```
+index.html
+```
+
 Pour visualiser les templates, il suffit d'ouvrir le fichier dans sublime text. Ce fichier contient toutes les pages en format HTML ainsi que le fichier avec le contenu CSS. 
 Ouvre l'une des page dans ton navigateur et c'est parti:
 

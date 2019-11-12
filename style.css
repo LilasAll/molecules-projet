@@ -86,9 +86,9 @@
 }
 
 .card-event {
-  margin: 0 auto; /* Added */
-  float: none; /* Added */
-  margin-bottom: 10px; /* Added */
+  margin: 0 auto;
+  float: none; 
+  margin-bottom: 10px; 
 }
 
 .page-footer{
@@ -98,6 +98,33 @@
   right: 0;
 }
 
+.user-card {
+  width:80%;
+  margin:auto;
+  margin-top: 30px; 
+}
+
+.img-user-card {
+  vertical-align: middle;
+}
+
+.city-card {
+  width:80%;
+  margin:auto;
+  margin-top: 30px; 
+}
+
+.comment-sec {
+  width:60%;
+  margin:auto;
+  margin-top: 100px; 
+}
+
+.comment-card {
+  width: 60%;
+  margin: auto;
+  margin-top: 100px; 
+}
 
 /* MES MODIFS */
 
